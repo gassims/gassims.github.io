@@ -6,3 +6,10 @@
 
 # My Projects
   Although all of my older projects weren't developed while using Github, I intend to make this update. Additionally, I intend to make my future projects on Github.
+  <ul>
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
