@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/gassims/gassims.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I use this site to display my coding projects. This site is new and it will take some time to get the projects over to Github.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am making many changes on this site because I'm learning how to use Github and make use of all its features.
 
 ### Markdown
 
