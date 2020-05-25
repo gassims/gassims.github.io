@@ -19,4 +19,4 @@
   </ul>
 
 
-  ![My Github Octocat](/images/octocat.jpg)
+  ![My Github Octocat](/images/octocat.png)
